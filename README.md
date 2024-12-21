@@ -5,6 +5,8 @@ Conditional Course Payments is a smart contract built on the Ethereum blockchain
 
 ## Contract Address
 *0x04333CaE4Db4e69Ba85F58CeC1A3F96e9123AB85*
+![image](https://github.com/user-attachments/assets/85c8a751-df77-4b89-878a-2f8d42b3ffe1)
+
 
 ## Project Vision
 The vision of Conditional Course Payments is to create a decentralized and trustless platform where:
